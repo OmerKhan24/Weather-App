@@ -6,7 +6,7 @@ const icon = document.querySelector(".weather-icon");
 async function checkWeather(){
     const response = await fetch(apiUrl + city.value + '&appid=855b1c65a81c917159c533397e6e3a7a');
 
-    if(response.status == 404){
+    if(response.status == 404 || city.value == ""){
         document.querySelector(".error").style.display = "block";
         document.querySelector(".weather").style.display = "none";
     }else{
