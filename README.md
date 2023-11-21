@@ -17,6 +17,10 @@ The Weather App is a user-friendly web application designed to offer a seamless 
 2. Open the project in your preferred code editor or directly in a web browser.
 
 3. Customize the project as needed.
+
+## Attribution
+
+The weather data in this project is provided by the [OpenWeatherMap API](https://openweathermap.org/). We acknowledge and appreciate their service for providing the weather information.
    
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/OmerKhan24/Weather-App/blob/main/LICENSE.md) file for details.
