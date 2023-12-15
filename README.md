@@ -31,7 +31,7 @@ Feel free to explore, contribute, or report issues. Happy weather checking!
 
 ## License
 
-This project is licensed under the  GNU GENERAL PUBLIC LICENSE License- see the [LICENSE](https://github.com/OmerKhan24/Weather-App/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License- see the [LICENSE](https://github.com/OmerKhan24/Weather-App/blob/main/LICENSE) file for details.
 
   ---
   
